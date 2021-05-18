@@ -5,6 +5,7 @@
 
 # Reaqtive Community Presentations
 
+- [Techorama 2021 Reaqtor Announcement Presentation](https://github.com/reaqtive/community-presentations/blob/main/2021/05/Techorama%20-%20Project%20Reaqtor.pptx)
 
 ## See also Reaqtive Creative Assets
 
